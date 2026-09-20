@@ -22,7 +22,7 @@ different results depending on the actual object type at runtime.
 - `Shape.java` – Base class with a default `calculateArea()` method
 - `Circle.java` – Extends Shape, overrides `calculateArea()` using radius
 - `Rectangle.java` – Extends Shape, overrides `calculateA[ShapeCalculator.java](https://github.com/user-attachments/files/32434116/ShapeCalculator.java)
-[ShapeCalculator.java](https://github.com/user-attachments/files/32434112/ShapeCalculator.java)
+
 rea()` using
   length and width
 - `ShapeCalculator.java` – Main class demonstrating the calculation for
